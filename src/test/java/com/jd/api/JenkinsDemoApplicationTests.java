@@ -9,7 +9,7 @@ class JenkinsDemoApplicationTests {
 
 	@Test
 	void contextLoads() {
-		LoggerFactory.getLogger(JenkinsDemoApplicationTests.class).info("Application Test Cases started - Modified");
+		LoggerFactory.getLogger(JenkinsDemoApplicationTests.class).info("Application Test Cases started - Modified - pipleine view");
 	}
 
 }
